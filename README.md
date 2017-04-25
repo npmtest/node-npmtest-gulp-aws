@@ -1,6 +1,6 @@
 # npmtest-gulp-aws
 
-#### test coverage for  [gulp-aws (v0.0.5)](https://github.com/spreaker/gulp-aws/)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-aws.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-aws) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-aws.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-aws)
+#### basic test coverage for  [gulp-aws (v0.0.5)](https://github.com/spreaker/gulp-aws/)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-aws.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-aws) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-aws.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-aws)
 
 #### AWS S3 plugin for Gulp
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-aws/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-aws/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-aws/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-aws/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-aws/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-aws/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-aws/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-aws/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-aws/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-aws/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-aws/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-aws/build/coverage.html/index.html)
 
@@ -87,7 +87,8 @@
         "url": "git+https://github.com/spreaker/gulp-aws.git"
     },
     "scripts": {},
-    "version": "0.0.5"
+    "version": "0.0.5",
+    "bin": {}
 }
 ```
 
